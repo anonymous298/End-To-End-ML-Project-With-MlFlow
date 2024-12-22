@@ -1,0 +1,20 @@
+Metadata-Version: 2.1
+Name: End-To-End-ML-Project
+Version: 0.1
+Summary: this package is about ML Project
+Author: Talha
+Author-email: tackletalha@gmail.com
+Requires-Dist: numpy
+Requires-Dist: pandas
+Requires-Dist: seaborn
+Requires-Dist: matplotlib
+Requires-Dist: scikit-learn
+Requires-Dist: mlflow
+Requires-Dist: dvc
+Requires-Dist: python-box==6.0.2
+Requires-Dist: ensure
+Requires-Dist: joblib
+Requires-Dist: pyYAML
+Requires-Dist: types-PyYAML
+Requires-Dist: flask
+Requires-Dist: tensorflow
