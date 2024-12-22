@@ -1,0 +1,14 @@
+numpy
+pandas
+seaborn
+matplotlib
+scikit-learn
+mlflow
+dvc
+ensure
+joblib
+pyYAML
+types-PyYAML
+flask
+tensorflow
+-e .
