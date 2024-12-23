@@ -12,4 +12,5 @@ pyYAML
 types-PyYAML
 flask
 tensorflow
--e .
+
+# -e .
